@@ -1,0 +1,11 @@
+student-management
+ ├── controller
+ │     └── StudentController.java
+ ├── service
+ │     └── StudentService.java
+ ├── repository
+ │     └── StudentRepository.java
+ ├── entity
+ │     └── Student.java
+ ├── StudentManagementApplication.java
+ └── application.properties
